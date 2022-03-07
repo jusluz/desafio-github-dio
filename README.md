@@ -1,2 +1,6 @@
-# Repositório do Desafio de Projeto sibre Git/GitHub
-Projeto Git/GitHub
+# Desafio de Projeto sobre Git/GitHub
+Repositório para o desfaio de projeto.
+
+## Links úteis
+
+[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
